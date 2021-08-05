@@ -8,6 +8,6 @@ else
     chmod +x .git-script-update.sh
     echo '---------------------------------' >> caraludme.log
     date >> caraludme.log
-	.git-script-update.sh &>> caraludme.log
+	./.git-script-update.sh &>> caraludme.log
 fi
 
