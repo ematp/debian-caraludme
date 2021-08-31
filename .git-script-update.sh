@@ -14,3 +14,5 @@ Icon=/home/caraludme/.local/share/icons/gdevelop.png
 Path=
 Terminal=false
 StartupNotify=true' > /home/caraludme/Escritorio/GDevelop.desktop
+
+chmod +x /home/caraludme/Escritorio/GDevelop.desktop
